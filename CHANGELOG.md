@@ -1,3 +1,10 @@
+# 1.1.0 (2026-07-13)
+
+
+### Features
+
+* added more currency items to the collection (42dffbc)
+
 ## 1.0.7 (2026-07-13)
 
 
