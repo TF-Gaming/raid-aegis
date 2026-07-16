@@ -1,3 +1,15 @@
+# 1.2.0 (2026-07-16)
+
+
+### Bug Fixes
+
+* bump built-for game version to 11.67 and sync IL2CPP layout (759e861)
+
+
+### Features
+
+* great hall improvements to show current bonus, and upgrade cost. (17f11fa)
+
 # 1.1.0 (2026-07-13)
 
 
