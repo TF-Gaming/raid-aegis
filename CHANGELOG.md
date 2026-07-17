@@ -1,3 +1,10 @@
+# 1.3.0 (2026-07-17)
+
+
+### Features
+
+* added raid account creation date to account page (c486c0d)
+
 # 1.2.0 (2026-07-16)
 
 
