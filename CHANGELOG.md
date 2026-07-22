@@ -1,3 +1,10 @@
+# 1.4.0 (2026-07-22)
+
+
+### Features
+
+* Added auth for account signups and account linking (2049602)
+
 # 1.3.0 (2026-07-17)
 
 
