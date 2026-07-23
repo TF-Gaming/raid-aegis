@@ -1,3 +1,10 @@
+# 1.5.0 (2026-07-23)
+
+
+### Features
+
+* Added clan information (f6119b7)
+
 # 1.4.0 (2026-07-22)
 
 
