@@ -1,3 +1,17 @@
+## 1.6.1 (2026-07-24)
+
+
+### Bug Fixes
+
+* pin raid-collector-rs to soul-collection commit (055a42c)
+
+# 1.6.0 (2026-07-24)
+
+
+### Features
+
+* Soul collection output with upgrades, and souls that aren't required. (f8ad744)
+
 # 1.5.0 (2026-07-23)
 
 
