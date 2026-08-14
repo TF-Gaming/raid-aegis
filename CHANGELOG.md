@@ -1,3 +1,10 @@
+## 1.7.1 (2026-08-14)
+
+
+### Bug Fixes
+
+* bump resources capture buffer from 2048 to 8192 bytes (0473cd2)
+
 # 1.7.0 (2026-08-06)
 
 
