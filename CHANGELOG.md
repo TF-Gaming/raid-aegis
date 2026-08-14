@@ -1,3 +1,10 @@
+## 1.7.2 (2026-08-14)
+
+
+### Bug Fixes
+
+* sync raid_v2026_08.json layout — daemon wouldn't start (v1.7.1) (ed50803)
+
 ## 1.7.1 (2026-08-14)
 
 
