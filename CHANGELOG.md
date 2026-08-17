@@ -1,3 +1,10 @@
+## 1.8.1 (2026-08-17)
+
+
+### Bug Fixes
+
+* cap automatic re-pair attempts to stop hammering the identity server (e4150b2)
+
 # 1.8.0 (2026-08-17)
 
 
