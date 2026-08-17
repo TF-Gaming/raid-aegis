@@ -1,3 +1,10 @@
+## 1.8.2 (2026-08-17)
+
+
+### Bug Fixes
+
+* default endpoint/identity_endpoint to production, not empty (a70733c)
+
 ## 1.8.1 (2026-08-17)
 
 
