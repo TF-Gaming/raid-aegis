@@ -1,3 +1,10 @@
+# 1.8.0 (2026-08-17)
+
+
+### Features
+
+* point device pairing at raid-aegis-web (Phase 5) (a726f12)
+
 ## 1.7.2 (2026-08-14)
 
 
