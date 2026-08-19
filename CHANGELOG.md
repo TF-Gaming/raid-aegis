@@ -1,3 +1,10 @@
+# 1.9.0 (2026-08-19)
+
+
+### Features
+
+* bump to layout raid_v2026_08b.json for Raid 11.71.0 (fb0f272)
+
 ## 1.8.2 (2026-08-17)
 
 
