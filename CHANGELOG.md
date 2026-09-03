@@ -1,3 +1,15 @@
+# 1.10.0 (2026-09-03)
+
+
+### Bug Fixes
+
+* bump builtForGameVersion for Raid 11.75.0 (877e1f3)
+
+
+### Features
+
+* declare rc_capture_stage_bosses_json (dungeon boss identity capture) (7dedf63)
+
 # 1.9.0 (2026-08-19)
 
 
