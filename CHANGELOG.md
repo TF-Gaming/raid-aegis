@@ -1,3 +1,10 @@
+## 1.11.1 (2026-09-07)
+
+
+### Bug Fixes
+
+* sync layout (Grim Forest offset) + add rc_capture_foggy_forest_types_json header (af6f09a)
+
 # 1.11.0 (2026-09-04)
 
 
