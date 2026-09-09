@@ -1,3 +1,24 @@
+# 1.12.0 (2026-09-09)
+
+
+### Bug Fixes
+
+* bound every update-check HTTP call with a timeout, log failures (293595b)
+* update-checker never fired for local (dev) builds, tighten interval to 15m (6453e50)
+
+
+### Features
+
+* proper item-level diffing for artifacts and relics in debug mode (0b76486), closes #4
+* split core-capture failures so one bad field doesn't lose the whole tick (7326b0d), closes #4
+* wire Doom Tower capture into the poll loop and push payload (d008a27)
+* wire Doom Tower rotation state through the capture pipeline (03beb53)
+
+
+### Reverts
+
+* keep local dev builds from ever checking for updates (was intentional) (441d1fe)
+
 ## 1.11.1 (2026-09-07)
 
 
