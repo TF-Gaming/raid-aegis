@@ -1,3 +1,15 @@
+# 1.13.0 (2026-09-10)
+
+
+### Bug Fixes
+
+* sync runtime layout JSONs — daemon was exiting silently on startup (1ed0507)
+
+
+### Features
+
+* wire Player Info accolades capture through the daemon (899e922)
+
 # 1.12.0 (2026-09-09)
 
 
