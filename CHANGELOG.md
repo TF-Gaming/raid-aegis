@@ -1,3 +1,12 @@
+# 1.14.0 (2026-09-16)
+
+
+### Features
+
+* capture Daily/Weekly/Monthly quest group progress + Advanced Quests (3dea156)
+* push currently time-boxed tournament/event standings (c5555f6), closes #26
+* push the claimed tournament/event prize (3d13391), closes #26
+
 # 1.13.0 (2026-09-10)
 
 
