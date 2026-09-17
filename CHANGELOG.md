@@ -1,3 +1,10 @@
+## 1.14.1 (2026-09-17)
+
+
+### Bug Fixes
+
+* release raid-collector-rs a6cde26 (periodic quest naming + prize) (12fcf6a)
+
 # 1.14.0 (2026-09-16)
 
 
