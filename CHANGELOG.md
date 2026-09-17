@@ -1,3 +1,10 @@
+## 1.14.2 (2026-09-17)
+
+
+### Bug Fixes
+
+* pin raid-collector-rs b865c7f (Advanced Quest Milestone counter) (c25debf)
+
 ## 1.14.1 (2026-09-17)
 
 
