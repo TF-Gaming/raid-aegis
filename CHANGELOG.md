@@ -1,3 +1,10 @@
+## 1.14.3 (2026-09-18)
+
+
+### Bug Fixes
+
+* sync layouts/ from raid-collector-rs (Hero.Power field) + CI single-source-of-truth guard (3eccf5f)
+
 ## 1.14.2 (2026-09-17)
 
 
