@@ -1,3 +1,10 @@
+## 1.14.4 (2026-09-23)
+
+
+### Bug Fixes
+
+* release raid-collector-rs 4edc0ee (auto-resolve tournament titles/images) (f7fc579)
+
 ## 1.14.3 (2026-09-18)
 
 
