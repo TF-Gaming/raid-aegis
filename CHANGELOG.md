@@ -1,3 +1,16 @@
+# 1.15.0 (2026-09-28)
+
+
+### Bug Fixes
+
+* pin raid-collector-rs ref for the black-market item fix (74f6b31)
+* pin raid-collector-rs ref for the tournament points fix (69f13b9)
+
+
+### Features
+
+* pin raid-collector-rs ref for tournament reward ladder capture (664f748)
+
 ## 1.14.4 (2026-09-23)
 
 
