@@ -1,3 +1,10 @@
+# 1.16.0 (2026-10-02)
+
+
+### Features
+
+* capture and push Battle Pass family seasons (Forge Pass, ...) (b1d0ddb), closes #34
+
 # 1.15.0 (2026-09-28)
 
 
