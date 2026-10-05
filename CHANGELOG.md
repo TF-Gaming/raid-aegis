@@ -1,3 +1,10 @@
+# 1.17.0 (2026-10-05)
+
+
+### Features
+
+* pin collector for Universal (Titan) event capture; widen the tournaments buffer to 256 KB (5f5f549)
+
 # 1.16.0 (2026-10-02)
 
 
