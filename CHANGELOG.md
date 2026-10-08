@@ -1,3 +1,11 @@
+## 1.17.1 (2026-10-08)
+
+
+### Bug Fixes
+
+* pin the collector that finds the newest layout, and test layout drift (f532e76)
+* support Raid 11.80 — new layout, built-for version and collector pin (9ddaa3b)
+
 # 1.17.0 (2026-10-05)
 
 
