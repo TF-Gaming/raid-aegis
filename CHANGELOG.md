@@ -1,3 +1,10 @@
+## 1.17.3 (2026-10-09)
+
+
+### Bug Fixes
+
+* pin the collector that ignores stale rarity-0 substat reveal rows (7b3987f)
+
 ## 1.17.2 (2026-10-09)
 
 
