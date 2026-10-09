@@ -1,3 +1,10 @@
+## 1.17.2 (2026-10-09)
+
+
+### Bug Fixes
+
+* bundle the layout with the hero experience offsets and pin the collector that reads them (7fbd45e)
+
 ## 1.17.1 (2026-10-08)
 
 
