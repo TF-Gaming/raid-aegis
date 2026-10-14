@@ -1,3 +1,10 @@
+## 1.17.5 (2026-10-14)
+
+
+### Bug Fixes
+
+* pin raid-collector-rs with the account XP fix (the XP to finish a level was one level ahead) (1b700d0)
+
 ## 1.17.4 (2026-10-14)
 
 
