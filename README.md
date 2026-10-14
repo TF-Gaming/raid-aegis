@@ -55,3 +55,7 @@ launching the game), which is why you'll see that one UAC prompt.
 Found a bug, or something look wrong on your dashboard? Please
 [open an issue](https://github.com/TF-Gaming/raid-aegis/issues) — include your Raid Aegis
 version (shown in the app window title) and a description of what happened.
+
+## Who makes Raid Aegis
+
+Raid Aegis is made by TF Gaming Ltd, a company registered in England and Wales (company number 17519659). It is an independent tool, not affiliated with or endorsed by Plarium Games Ltd.

@@ -1,3 +1,10 @@
+## 1.17.4 (2026-10-14)
+
+
+### Bug Fixes
+
+* pair against raid.tf-gaming.com instead of the old v2 staging address (63b6f40)
+
 ## 1.17.3 (2026-10-09)
 
 
