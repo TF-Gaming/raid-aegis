@@ -22,10 +22,12 @@ All of it updates live — leave the dashboard open in a browser and watch it ch
 ## Install
 
 1. Download the latest installer from [Releases](https://github.com/TF-Gaming/raid-aegis/releases/latest).
-2. Run `RaidAegisSetup-*.exe`. It installs for your user only — no admin rights needed for
-   this step.
-3. On first launch, Windows will ask you to approve one permission prompt. This is required
-   because reading live game data needs elevated access — see **Is this safe?** below.
+2. Run `RaidAegisSetup-*.exe`. It installs to `C:\Program Files\Raid Aegis` and Windows will ask
+   you to approve it (administrator access). If you have an earlier version installed, this
+   replaces it and keeps your linked account.
+3. Reading live game data needs elevated access, so Raid Aegis also asks Windows for it each time
+   it starts — see **Is this safe?** below. Installing under Program Files means no other program
+   running as you can swap the app for something else behind that prompt.
 4. That's it — Raid Aegis connects itself and your dashboard starts filling in automatically.
 
 Raid Aegis lives in your system tray. Right-click the icon to show the window, pause live

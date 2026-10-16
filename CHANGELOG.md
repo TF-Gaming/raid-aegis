@@ -1,3 +1,19 @@
+# 1.18.0 (2026-10-16)
+
+
+### Bug Fixes
+
+* capture buffers grow when the game data outgrows them (artifacts failed with "buffer too small") (b000fce)
+* harden the auto-updater (pinned GitHub hosts, required checksums, protected download folder, optional Ed25519 signatures) and build with a supported Go (93b5ace)
+* install under Program Files (admin) so the elevated app and its DLL cannot be swapped by programs running as the user (26c9643)
+* ship the collector that no longer leaks a process handle per capture or aborts the daemon on a panic (0a9cf66)
+* the installer looked for the old per-user install under the wrong registry key, so it was never removed (efab6b9)
+
+
+### Features
+
+* send the account's lifetime summon totals so the Shard Mercy page can count pulls (6180a71)
+
 ## 1.17.5 (2026-10-14)
 
 
