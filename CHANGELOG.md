@@ -1,3 +1,10 @@
+## 1.18.2 (2026-10-21)
+
+
+### Bug Fixes
+
+* releases publish a checksums.txt listing the installer, so the updater can install them (b1b260a)
+
 ## 1.18.1 (2026-10-21)
 
 
