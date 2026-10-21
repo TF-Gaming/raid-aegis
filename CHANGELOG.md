@@ -1,3 +1,12 @@
+# 1.19.0 (2026-10-21)
+
+
+### Features
+
+* a button in the window and a tray item to open your profile on raid.tf-gaming.com (fe50864)
+* keep a readable copy of the last upload, tray items to open it and the transparency page, and a manifest of every field sent (8bd484c)
+* upload the account's mission progress (Arbiter, Ramantu and Marius) (3f53ae3)
+
 ## 1.18.2 (2026-10-21)
 
 
