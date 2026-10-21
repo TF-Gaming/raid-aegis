@@ -1,3 +1,10 @@
+## 1.18.1 (2026-10-21)
+
+
+### Bug Fixes
+
+* built for Raid 11.85 (no field offsets moved, so the existing layout still applies) (9c5ff5c)
+
 # 1.18.0 (2026-10-16)
 
 
