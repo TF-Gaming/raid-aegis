@@ -1,3 +1,10 @@
+## 1.19.1 (2026-10-22)
+
+
+### Bug Fixes
+
+* ship the collector that reports the Clan Boss key limit and regeneration time (f40f1ba)
+
 # 1.19.0 (2026-10-21)
 
 
