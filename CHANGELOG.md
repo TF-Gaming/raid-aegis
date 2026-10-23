@@ -1,3 +1,16 @@
+# 1.20.0 (2026-10-23)
+
+
+### Bug Fixes
+
+* window keeps its layout after being minimised and restored (d0b793e)
+
+
+### Features
+
+* send champion fragments and fusions (hero_parts) for fusion progress (4133009)
+* ship the collector whose rewards name their champion fragments (1542aef)
+
 ## 1.19.1 (2026-10-22)
 
 
