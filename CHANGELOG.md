@@ -1,3 +1,10 @@
+## 1.20.1 (2026-10-30)
+
+
+### Bug Fixes
+
+* the accolades capture grows its buffer, so the Faction Guardians fit and the accolades reach the server (ccfd38e)
+
 # 1.20.0 (2026-10-23)
 
 
