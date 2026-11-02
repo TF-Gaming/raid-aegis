@@ -1,3 +1,10 @@
+## 1.20.2 (2026-11-02)
+
+
+### Bug Fixes
+
+* ship the collector that reads event rule points from the right place, with each artifact rule's conditions (c4a3bf2)
+
 ## 1.20.1 (2026-10-30)
 
 
