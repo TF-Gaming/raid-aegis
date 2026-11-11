@@ -1,3 +1,11 @@
+# 1.21.0 (2026-11-11)
+
+
+### Features
+
+* Demon Coalition (cooperation) events: coalition total, gifts and multipliers, personal rewards and claims are captured (7f7f39c)
+* prizes name their gemstones and artifact sets (e.g. "Rare Gemstone", "6-star Epic Immortal set") instead of "+1 other item" (77d6e30)
+
 ## 1.20.3 (2026-11-11)
 
 
