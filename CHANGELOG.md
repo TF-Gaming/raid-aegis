@@ -1,3 +1,10 @@
+## 1.20.3 (2026-11-11)
+
+
+### Bug Fixes
+
+* built for Raid 11.90: the new 11.90.1 layout, where AppModel's user wrapper moved 8 bytes (a5f6561)
+
 ## 1.20.2 (2026-11-02)
 
 
