@@ -1,3 +1,10 @@
+# 1.22.0 (2026-11-13)
+
+
+### Features
+
+* Demon Coalition event definition is captured (battle milestones, points rules, gift and personal tracks, ranking prizes by rank and level bracket, relic prizes named); bump raid-collector-rs (f8157c2)
+
 # 1.21.0 (2026-11-11)
 
 
