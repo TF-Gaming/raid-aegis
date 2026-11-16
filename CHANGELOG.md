@@ -1,3 +1,17 @@
+# 1.23.0 (2026-11-16)
+
+
+### Bug Fixes
+
+* the app notices when Raid closes or crashes, instead of carrying on with the last data (2cceeeb)
+
+
+### Features
+
+* the Grim Forest upload includes where this rotation's chests are under fog (nothing else about fogged slots); bump raid-collector-rs (3045ff7)
+* the update check runs 5 s after start, retries a failed check within minutes and checks on wake; the debug log names every captured part that changed instead of "possible JSON key-order change" (dc81cbe)
+* uploads Grim Forest progress (slots opened and cleared, squad level, what this rotation put on the opened slots); bump raid-collector-rs (fef23be), closes #62
+
 # 1.22.0 (2026-11-13)
 
 
