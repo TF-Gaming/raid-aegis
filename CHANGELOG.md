@@ -1,3 +1,10 @@
+# 1.24.0 (2026-11-17)
+
+
+### Features
+
+* event rules sent with their shard type and champion rarity, for the Summon Rush page (dc91fc2)
+
 # 1.23.0 (2026-11-16)
 
 
