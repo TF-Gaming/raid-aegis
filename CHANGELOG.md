@@ -1,3 +1,11 @@
+## 1.24.1 (2026-11-19)
+
+
+### Bug Fixes
+
+* built for Raid 11.95, so the app no longer warns of a version mismatch after the game update (c22d2d7)
+* Raid 11.95 layout with the new TypeInfo addresses, so captures no longer fail with a layout mismatch (adb365c)
+
 # 1.24.0 (2026-11-17)
 
 
