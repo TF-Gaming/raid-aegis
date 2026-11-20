@@ -1,3 +1,10 @@
+## 1.24.2 (2026-11-20)
+
+
+### Bug Fixes
+
+* pin raid-collector-rs 316fd74, event titles and pictures read again on Raid 11.90 and later (63a770a)
+
 ## 1.24.1 (2026-11-19)
 
 
